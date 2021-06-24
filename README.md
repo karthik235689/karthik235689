@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Karthik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katakam-karthik-2223171b0/)](https://www.linkedin.com/in/katakam-karthik-2223171b0/)
 [![Instagram Badge](https://img.shields.io/badge/-Karthik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/karthik_542/)](https://instagram.com/karthik_542)
 [![Gmail Badge](https://img.shields.io/badge/-karthik23052001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthik23052001@gmail.com)](mailto:karthik23052001@gmail.com)
-
-&nbsp; &nbsp; &nbsp;
 -   🔭 I’m currently working on [Seesaws](https://seesaws.in/).
 -   🌱 I’m currently learning more about Cryptography.
 -   👯 I’m looking to collaborate and work on many Projects.
