@@ -59,7 +59,7 @@ Discord: kiri#7479
 ---
 
 <details>
-<summary> Hackathons 💻: </summary>
+<summary> ###Hackathons 💻: </summary>
   
 <br/>
 
