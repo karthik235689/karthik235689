@@ -25,3 +25,27 @@ Here are some ideas to get you started:
 -   📫 How to reach me: [Linkedin-](https://www.linkedin.com/in/katakam-karthik-2223171b0/) , [Instagram- @karthik_542](https://instagram.com/karthik_542/)
 -   😄 Pronouns: He/His
 -   ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+-   
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, Python, Java, C,],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap", "UI"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         PHP ,
+         misc: ["Bash"]
+      },
+      databases: ["MongoDB", "mySQL"],
+   },
+   currentOccupation: ["Student"],
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
