@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 > neofetch
 ```
 
-<img align="left" src="https://i.pinimg.com/originals/6e/82/67/6e8267fd3d5b8dbfeb62c3d48b4107b1.jpg" width="320" /> 
+<img align="left" src="https://pic.funnygifsbox.com/uploads/2019/11/funnygifsbox.com-2019-11-25-07-39-50-91.gif" width="320" /> 
 
 ```csharp
 karthik235689@github
