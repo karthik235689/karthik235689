@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## SUDO, I'm Katakam Karthik👋
+## SUDO, I'm Katakam Karthik 👋 and I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
 
 <a href="">
   <img align="left" alt="Karthik's Discord Server" width="19px" src="https://web.telegram.org/img/logo_share.png" />
