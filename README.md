@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## SUDO, I'm Katakam Karthik 👋 and I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />
+## SUDO, I'm Katakam Karthik 👋.
 
 <a href="">
   <img align="left" alt="Karthik's Discord Server" width="19px" src="https://web.telegram.org/img/logo_share.png" />
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 -   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/katakam-karthik-2223171b0/) , [Instagram- @karthik_542](https://instagram.com/karthik_542/)
 -   😄 Pronouns: He/His
 -   ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+-   💬 I want to be a Full Stack </ Developer >
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```zsh
