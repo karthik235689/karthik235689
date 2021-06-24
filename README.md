@@ -56,6 +56,7 @@ Discord: kiri#7479
 </p>
 
 &nbsp;
+<codersrank-education username="karthik235689"></codersrank-education>
 ### Github Stats :
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthik235689&show_icons=true)](https://github.com/karthik235689/github-readme-stats)
 
