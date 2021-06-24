@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Karthik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Karthik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Karthik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 -   🔭 I’m currently working on [Seesaws](https://seesaws.in/).
 -   🌱 I’m currently learning more about Cryptography.
 -   👯 I’m looking to collaborate and work on many Projects.
