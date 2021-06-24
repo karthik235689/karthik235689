@@ -90,6 +90,8 @@ WebOcode  -  [Check out!]()<br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<p href="https://github.com/karthik235689/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/acervenky"></p>
+
 [website]: https://seesaws.in
 [facebook]: https://www.facebook.com/profile.php?id=100008249283592
 [instagram]: https://instagram.com/karthik_542/
