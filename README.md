@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## SUDO, I'm Katakam Karthik 👋.
-[<img align="left" alt="seesaws.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.seesaws.in]
-[<img align="left" alt="Karthik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/katakam-karthik-2223171b0/]
-[<img align="left" alt="Karthik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/karthik_542/]
-[<img align="left" alt="Karthik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/profile.php?id=100008249283592]
+[<img align="left" alt="seesaws.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Karthik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Karthik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Karthik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 -   🔭 I’m currently working on [Seesaws](https://seesaws.in/).
 -   🌱 I’m currently learning more about Cryptography.
@@ -72,3 +72,8 @@ WebOcode  -  [Check out!]()<br/>
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+[website]: https://seesaws.in
+[facebook]: https://www.facebook.com/profile.php?id=100008249283592
+[instagram]: https://instagram.com/karthik_542/
+[linkedin]: https://www.linkedin.com/in/katakam-karthik-2223171b0/
