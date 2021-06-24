@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://static.wixstatic.com/media/115ed7_0f8139427def416dbe526899644c6401~mv2.jpg/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/115ed7_0f8139427def416dbe526899644c6401~mv2.jpg">
 ## SUDO, I'm Katakam Karthik 👋.
 [![Linkedin Badge](https://img.shields.io/badge/-Karthik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katakam-karthik-2223171b0/)](https://www.linkedin.com/in/katakam-karthik-2223171b0/)
 [![Instagram Badge](https://img.shields.io/badge/-Karthik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/karthik_542/)](https://instagram.com/karthik_542)
