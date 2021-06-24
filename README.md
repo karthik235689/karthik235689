@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## SUDO, I'm Katakam Karthik 👋.
-[<img align="left" alt="seesaws.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Karthik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Karthik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Karthik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[![Linkedin Badge](https://img.shields.io/badge/-Karthik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katakam-karthik-2223171b0/)](https://www.linkedin.com/in/katakam-karthik-2223171b0/)
+[![Instagram Badge](https://img.shields.io/badge/-Karthik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/karthik_542/)](https://instagram.com/karthik_542)
+[![Gmail Badge](https://img.shields.io/badge/-karthik23052001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthik23052001@gmail.com)](mailto:karthik23052001@gmail.com)
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 -   🔭 I’m currently working on [Seesaws](https://seesaws.in/).
 -   🌱 I’m currently learning more about Cryptography.
