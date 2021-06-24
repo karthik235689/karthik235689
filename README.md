@@ -72,8 +72,6 @@ WebOcode  -  [Check out!]()<br/>
 
 ---
 
----
-
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [8 étapes pour réaliser un nouveau site web pas cher !](https://www.alfreddagenais.com/8-etapes-nouveau-site-web-pas-cher/)
