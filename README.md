@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 > neofetch
 ```
 
-<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://i.pinimg.com/originals/6e/82/67/6e8267fd3d5b8dbfeb62c3d48b4107b1.jpg" width="320" /> 
 
 ```csharp
 karthik235689@github
