@@ -71,6 +71,19 @@ WebOcode  -  [Check out!]()<br/>
 </details>
 
 ---
+
+---
+
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [8 étapes pour réaliser un nouveau site web pas cher !](https://www.alfreddagenais.com/8-etapes-nouveau-site-web-pas-cher/)
+- [Les requêtes critiques](https://www.alfreddagenais.com/les-requetes-critiques/)
+- [Comment écrire des articles optimisés Search Engine Optimized dans WordPress](https://www.alfreddagenais.com/ecrire-articles-optimises-seo-wordpress/)
+- [Responsive Breakpoints – Une image responsive pour toutes les résolutions](https://www.alfreddagenais.com/responsive-breakpoints-image-responsive-toutes-resolutions/)
+- [Responsive Design : conception de sites web adaptatifs](https://www.alfreddagenais.com/responsive-design-conception-de-sites-web-adaptatifs/)
+<!-- BLOG-POST-LIST:END -->
+
+---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 [website]: https://seesaws.in
