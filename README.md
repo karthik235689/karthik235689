@@ -46,25 +46,32 @@ Here are some ideas to get you started:
 -   ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python, Java, C,],
-   technologies: {
-      frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap", "UI"]
-      },
-      backEnd: {
-         js: ["Node", "Express"],
-         PHP ,
-         misc: ["Bash"]
-      },
-      databases: ["MongoDB", "mySQL"],
-   },
-   currentOccupation: ["Student"],
-};
+```zsh
+> neofetch
 ```
+
+<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+
+```csharp
+karthik235689@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.7.1
+Pronouns: He/Him
+Location: Hyderabad, India
+Frameworks: React
+Languages: JavaScript, Python, Java,
+           HTML, CSS, C.
+Learning: Node.js, Express, Bash
+          Three.js, CPP
+Hobbies: Blogging, Research, Brawlstars
+Discord: kiri#7479
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+</p>
+
 ---
 
 <details>
