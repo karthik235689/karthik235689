@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Karthik's Linkdein" width="19px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
-
+&nbsp
 -   🔭 I’m currently working on [Seesaws](https://seesaws.in/).
 -   🌱 I’m currently learning more about Cryptography.
 -   👯 I’m looking to collaborate and work on many Projects.
