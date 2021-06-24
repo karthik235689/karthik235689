@@ -16,25 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## SUDO, I'm Katakam Karthik 👋.
-
-<a href="">
-  <img align="left" alt="Karthik's Discord Server" width="19px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
-<a href="https://github.com/karthik235689">
-  <img align="left" alt="Karthik's Github" width="19px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-<a href="https://instagram.com/karthik_542/">
-  <img align="left" alt="Karthik's Instagram" width="19px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100008249283592">
-  <img align="left" alt="Karthik's Facebook" width="19px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
-<a href="https://twitter.com/">
-  <img align="left" alt="Karthik's Twitter" width="19px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-<a href="https://www.linkedin.com/in/katakam-karthik-2223171b0/">
-  <img align="left" alt="Karthik's Linkdein" width="19px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
+[<img align="left" alt="seesaws.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.seesaws.in]
+[<img align="left" alt="Karthik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/katakam-karthik-2223171b0/]
+[<img align="left" alt="Karthik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/karthik_542/]
+[<img align="left" alt="Karthik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/profile.php?id=100008249283592]
 
 -   🔭 I’m currently working on [Seesaws](https://seesaws.in/).
 -   🌱 I’m currently learning more about Cryptography.
